@@ -3,11 +3,11 @@
     Date created: 04 Aug 2022
     Date updated: 07 Aug 2022
     Purpose: A program that allows the user to 
-                create a list of tasks that
-                must be done
+                create a to-do list and save
+                it to a file for later use
     Language: C++ 12.1.0
     Known bugs: 
-        None
+        None   
 ******************************/
 
 #include <iostream>
